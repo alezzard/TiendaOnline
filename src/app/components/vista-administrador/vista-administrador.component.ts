@@ -9,7 +9,8 @@ export class VistaAdministradorComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
-  }
+  ngOnInit(): void {}
+
+  title = "Vista Administrador"
 
 }

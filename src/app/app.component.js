@@ -1,0 +1,1 @@
+function Clikiar() {console.log("kionda wachiii")}
